@@ -14,6 +14,6 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ZebraStrike.git
+git clone https://github.com/smsl1/ZebraStrike
 cd ZebraStrike
 pip install -r requirements.txt
