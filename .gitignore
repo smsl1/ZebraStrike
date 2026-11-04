@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local scan results
+zebrastrike_report.json
+zebrastrike_results.txt
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
